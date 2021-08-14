@@ -1,0 +1,1 @@
+Clase hecha para crear validaciones desde jquery
